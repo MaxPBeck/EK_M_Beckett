@@ -21,15 +21,17 @@
             <p class="fst-italic">
               In diesem IT-Kurs habe ich wertvolle Fähigkeiten in verschiedenen Bereichen der Informationstechnologie und Programmierung erlernt. Zu Beginn haben wir mit Microsoft Office gearbeitet, was mir geholfen hat, professionelle Dokumente zu erstellen, Tabellen zu verwalten und Präsentationen zu gestalten. Besonders wichtig war das vertiefte Verständnis der Anwendungen wie Word, Excel und PowerPoint.
 
+<br> <br>
 Anschließend haben wir die IT-Grundlagen behandelt, bei denen ich ein solides Fundament in der Funktionsweise von Computern, Betriebssystemen und Software erlangt habe. Dieses Wissen hat mir geholfen, ein besseres Verständnis für die Technologie hinter modernen Geräten und Netzwerken zu entwickeln.
 
+<br> <br>
 Im Bereich SQL habe ich gelernt, wie man mit Datenbanken arbeitet. Wir haben Abfragen erstellt, Daten verwaltet und relationale Datenbanken effizient genutzt. Das Erlernen von SQL hat meine Fähigkeiten im Umgang mit großen Datenmengen und deren Analyse gestärkt.
 
-Der Kurs bot auch einen tiefen Einblick in Netzwerke. Ich habe gelernt, wie Netzwerke aufgebaut werden, wie die Kommunikation zwischen verschiedenen Geräten funktioniert und wie IP-Adressen, Subnetze und Router konfiguriert werden. Dieses Wissen ist entscheidend für die Verwaltung und Wartung von Netzwerkinfrastrukturen.
+<br><br>Der Kurs bot auch einen tiefen Einblick in Netzwerke. Ich habe gelernt, wie Netzwerke aufgebaut werden, wie die Kommunikation zwischen verschiedenen Geräten funktioniert und wie IP-Adressen, Subnetze und Router konfiguriert werden. Dieses Wissen ist entscheidend für die Verwaltung und Wartung von Netzwerkinfrastrukturen.
 
-In C# habe ich die Grundlagen der objektorientierten Programmierung und die Erstellung von Desktop-Anwendungen kennengelernt. Die Sprache hat mir gezeigt, wie man komplexe Algorithmen umsetzt und strukturierte, skalierbare Software entwickelt.
+<br><br>In C# habe ich die Grundlagen der objektorientierten Programmierung und die Erstellung von Desktop-Anwendungen kennengelernt. Die Sprache hat mir gezeigt, wie man komplexe Algorithmen umsetzt und strukturierte, skalierbare Software entwickelt.
 
-Zuletzt haben wir uns intensiv mit Webprogrammierung beschäftigt, insbesondere mit HTML und PHP. Ich habe gelernt, wie man Webseiten aufbaut, sie mit interaktiven Funktionen ausstattet und serverseitige Skripte schreibt, um dynamische Inhalte zu generieren. Der Umgang mit HTML als Grundbaustein für Webseiten und PHP für serverseitige Programmierung hat mir ein umfassendes Verständnis für die Webentwicklung vermittelt.
+<br><br>Zuletzt haben wir uns intensiv mit Webprogrammierung beschäftigt, insbesondere mit HTML und PHP. Ich habe gelernt, wie man Webseiten aufbaut, sie mit interaktiven Funktionen ausstattet und serverseitige Skripte schreibt, um dynamische Inhalte zu generieren. Der Umgang mit HTML als Grundbaustein für Webseiten und PHP für serverseitige Programmierung hat mir ein umfassendes Verständnis für die Webentwicklung vermittelt.
       
     </section><!-- /About Section -->
           
@@ -62,9 +64,9 @@ Zuletzt haben wir uns intensiv mit Webprogrammierung beschäftigt, insbesondere 
             </div><!-- End Skills Item -->
 
             <div class="progress">
-              <span class="skill"><span>C#</span> <i class="val">75%</i></span>
+              <span class="skill"><span>C#</span> <i class="val">95%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
@@ -73,23 +75,23 @@ Zuletzt haben wir uns intensiv mit Webprogrammierung beschäftigt, insbesondere 
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill"><span>Office</span> <i class="val">90%</i></span>
+              <span class="skill"><span>Office</span> <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
             <div class="progress">
-              <span class="skill"><span>SQL</span> <i class="val">90%</i></span>
+              <span class="skill"><span>SQL</span> <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
             <div class="progress">
-              <span class="skill"><span>Netzwerke</span> <i class="val">85%</i></span>
+              <span class="skill"><span>Netzwerke</span> <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div><!-- End Skills Item -->
 
