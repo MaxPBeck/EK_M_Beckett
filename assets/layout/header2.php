@@ -52,7 +52,6 @@
           <li><a href="index.php" class="active">Home</a></li>
           <li><a href="about.php">About</a></li>
           <li><a href="login.php">Login</a></li>
-          <li><a href="secret.php">Secret</a></li>
         </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>
